@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\material-component",
+    "\\src\\app\\material-component\\dialog",
+    "\\src\\app\\material-component\\dialog\\category",
+    "\\src\\app\\material-component\\manage-category",
+    "\\src\\app\\signup",
+    "\\src\\environments"
+  ],
+  "SelectedNode": "\\src\\app\\material-component\\manage-category\\manage-category.component.ts",
+  "PreviewInSolutionExplorer": false
+}
